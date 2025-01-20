@@ -1,0 +1,7 @@
+tensorflow-macos==2.12.0
+tensorflow-metal==0.8.0
+numpy>=1.22,<1.24  # TensorFlow와 호환되는 버전
+matplotlib==3.7.1
+pandas==1.5.3
+scikit-learn==1.2.2
+jupyterlab==3.6.3
